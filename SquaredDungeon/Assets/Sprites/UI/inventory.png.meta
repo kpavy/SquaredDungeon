@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 29e0f355fcaabbf45a64c9c4f688e07f
+timeCreated: 1463925092
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: inventory_0
+    21300002: inventory_1
+    21300004: inventory_2
+    21300006: inventory_3
+    21300008: inventory_4
+    21300010: inventory_5
+    21300012: inventory_6
+    21300014: inventory_7
+    21300016: inventory_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 256
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: inventory_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: 114}
+        - {x: -114, y: -114}
+        - {x: 114, y: -114}
+        - {x: 114, y: 114}
+      - - {x: -74, y: 74}
+        - {x: 74, y: 74}
+        - {x: 74, y: -74}
+        - {x: -74, y: -74}
+    - name: inventory_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.94444, y: 114}
+        - {x: -100.94444, y: 108}
+        - {x: -105.94444, y: 108}
+        - {x: -107.94444, y: 106}
+        - {x: -107.94444, y: 101}
+        - {x: -112.94444, y: 101}
+        - {x: -113.94444, y: 100}
+        - {x: -113.94444, y: -114}
+        - {x: 115.05556, y: -114}
+        - {x: 115.05556, y: 114}
+      - - {x: -73.94444, y: 74}
+        - {x: 75.05556, y: 74}
+        - {x: 75.05556, y: -74}
+        - {x: -73.94444, y: -74}
+    - name: inventory_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.888885, y: 114}
+        - {x: -113.888885, y: -100}
+        - {x: -112.888885, y: -101}
+        - {x: -107.888885, y: -101}
+        - {x: -107.888885, y: -106}
+        - {x: -105.888885, y: -108}
+        - {x: -100.888885, y: -108}
+        - {x: -100.888885, y: -114}
+        - {x: 114.111115, y: -114}
+        - {x: 114.111115, y: 114}
+      - - {x: -73.888885, y: 74}
+        - {x: 74.111115, y: 74}
+        - {x: 74.111115, y: -74}
+        - {x: -73.888885, y: -74}
+    - name: inventory_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109.16669, y: 101}
+        - {x: 109.16669, y: 106}
+        - {x: 107.16669, y: 108}
+        - {x: 102.16669, y: 108}
+        - {x: 102.16669, y: 114}
+        - {x: -113.83331, y: 114}
+        - {x: -113.83331, y: -114}
+        - {x: 115.16669, y: -114}
+        - {x: 115.16669, y: 100}
+        - {x: 114.16669, y: 101}
+      - - {x: -73.83331, y: 74}
+        - {x: 75.16669, y: 74}
+        - {x: 75.16669, y: -74}
+        - {x: -73.83331, y: -74}
+    - name: inventory_4
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108.22223, y: -101}
+        - {x: 113.22223, y: -101}
+        - {x: 114.22223, y: -100}
+        - {x: 114.22223, y: 114}
+        - {x: -113.77777, y: 114}
+        - {x: -113.77777, y: -114}
+        - {x: 101.22223, y: -114}
+        - {x: 101.22223, y: -108}
+        - {x: 106.22223, y: -108}
+        - {x: 108.22223, y: -106}
+      - - {x: -73.77777, y: 74}
+        - {x: 74.22223, y: 74}
+        - {x: 74.22223, y: -74}
+        - {x: -73.77777, y: -74}
+    - name: inventory_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.72217, y: 114}
+        - {x: -113.72217, y: -114}
+        - {x: 115.27783, y: -114}
+        - {x: 115.27783, y: 114}
+      - - {x: -73.72217, y: 74}
+        - {x: 75.27783, y: 74}
+        - {x: 75.27783, y: -74}
+        - {x: -73.72217, y: -74}
+    - name: inventory_6
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 0
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.666626, y: 114}
+        - {x: -113.666626, y: -114}
+        - {x: 114.333374, y: -114}
+        - {x: 114.333374, y: 114}
+      - - {x: -73.666626, y: 74}
+        - {x: 74.333374, y: 74}
+        - {x: 74.333374, y: -74}
+        - {x: -73.666626, y: -74}
+    - name: inventory_7
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 0
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.611084, y: 114}
+        - {x: -113.611084, y: -114}
+        - {x: 115.388916, y: -114}
+        - {x: 115.388916, y: 114}
+      - - {x: -73.611084, y: 74}
+        - {x: 75.388916, y: 74}
+        - {x: 75.388916, y: -74}
+        - {x: -73.611084, y: -74}
+    - name: inventory_8
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 0
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.55554, y: 114}
+        - {x: -113.55554, y: -114}
+        - {x: 114.44446, y: -114}
+        - {x: 114.44446, y: 114}
+      - - {x: -73.55554, y: 74}
+        - {x: 74.44446, y: 74}
+        - {x: 74.44446, y: -74}
+        - {x: -73.55554, y: -74}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

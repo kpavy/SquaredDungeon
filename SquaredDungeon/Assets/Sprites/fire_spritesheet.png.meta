@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 963b70258ee26d245a5bab968c930ddb
+timeCreated: 1464548124
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire_spritesheet_0
+    21300002: fire_spritesheet_1
+    21300004: fire_spritesheet_2
+    21300006: fire_spritesheet_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: fire_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 39}
+        - {x: 69, y: 97}
+        - {x: -41, y: 97}
+        - {x: -52, y: 83}
+        - {x: -50, y: 66}
+        - {x: -46, y: 64}
+        - {x: -45, y: 64}
+        - {x: -50, y: 64}
+        - {x: -59, y: 45}
+        - {x: -69, y: 29}
+        - {x: -100, y: -26}
+        - {x: -100, y: -47}
+        - {x: -51, y: -100}
+        - {x: -7, y: -112}
+        - {x: 20, y: -112}
+        - {x: 27, y: -96}
+        - {x: 47, y: -98}
+        - {x: 93, y: -54}
+      - - {x: 98, y: -56}
+        - {x: 102, y: -60}
+        - {x: 105, y: -58}
+        - {x: 103, y: -53}
+        - {x: 100, y: -53}
+        - {x: 98, y: -55}
+      - - {x: -20, y: 80}
+        - {x: -17, y: 76}
+        - {x: -16, y: 76}
+        - {x: -12, y: 80}
+        - {x: -13, y: 83}
+        - {x: -19, y: 83}
+      - - {x: -8, y: 91}
+        - {x: -14, y: 87}
+        - {x: -14, y: 83}
+        - {x: -10, y: 79}
+        - {x: -6, y: 79}
+        - {x: -3, y: 80}
+        - {x: -1, y: 82}
+        - {x: 0, y: 87}
+        - {x: -6, y: 91}
+    - name: fire_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -89}
+        - {x: 5, y: -88}
+        - {x: 5, y: -85}
+        - {x: 2, y: -84}
+        - {x: 0, y: -86}
+      - - {x: 61, y: -82}
+        - {x: 62, y: -85}
+        - {x: 65, y: -85}
+        - {x: 67, y: -83}
+        - {x: 66, y: -80}
+        - {x: 63, y: -80}
+      - - {x: 75, y: -22}
+        - {x: 79, y: -26}
+        - {x: 83, y: -32}
+        - {x: 114, y: -20}
+        - {x: 118, y: -12}
+        - {x: 118, y: 33}
+        - {x: 68, y: 61}
+        - {x: 44, y: 42}
+        - {x: 36, y: 34}
+        - {x: 36, y: 29}
+        - {x: 37, y: 29}
+        - {x: 32, y: 29}
+        - {x: 46, y: 52}
+        - {x: 35, y: 73}
+        - {x: -7, y: 109}
+        - {x: -49, y: 109}
+        - {x: -59, y: 74}
+        - {x: -60, y: 65}
+        - {x: -58, y: 63}
+        - {x: -63, y: 67}
+        - {x: -61, y: 68}
+        - {x: -60, y: 73}
+        - {x: -81, y: 90}
+        - {x: -125, y: 22}
+        - {x: -125, y: -33}
+        - {x: -90, y: -83}
+        - {x: 67, y: -83}
+        - {x: 85, y: -56}
+        - {x: 81, y: -34}
+        - {x: 79, y: -27}
+      - - {x: -90, y: 18}
+        - {x: -91, y: 15}
+        - {x: -86, y: 9}
+        - {x: -85, y: 9}
+        - {x: -82, y: 12}
+        - {x: -82, y: 13}
+        - {x: -86, y: 18}
+      - - {x: -99, y: 15}
+        - {x: -99, y: 13}
+        - {x: -97, y: 11}
+        - {x: -96, y: 11}
+        - {x: -93, y: 14}
+        - {x: -94, y: 17}
+        - {x: -97, y: 17}
+      - - {x: 78, y: 29}
+        - {x: 83, y: 26}
+        - {x: 91, y: 26}
+        - {x: 91, y: 30}
+        - {x: 89, y: 35}
+        - {x: 80, y: 35}
+        - {x: 78, y: 34}
+      - - {x: -105, y: 33}
+        - {x: -105, y: 31}
+        - {x: -102, y: 28}
+        - {x: -100, y: 28}
+        - {x: -96, y: 32}
+        - {x: -97, y: 35}
+        - {x: -103, y: 35}
+      - - {x: 2, y: 57}
+        - {x: 5, y: 58}
+        - {x: 5, y: 61}
+        - {x: 2, y: 62}
+        - {x: 0, y: 60}
+      - - {x: 3, y: 89}
+        - {x: 3, y: 75}
+        - {x: 5, y: 73}
+        - {x: 9, y: 73}
+        - {x: 15, y: 75}
+        - {x: 15, y: 85}
+        - {x: 13, y: 89}
+      - - {x: -71, y: 100}
+        - {x: -75, y: 100}
+        - {x: -85, y: 96}
+        - {x: -86, y: 89}
+        - {x: -86, y: 75}
+        - {x: -83, y: 74}
+        - {x: -74, y: 74}
+        - {x: -69, y: 79}
+        - {x: -69, y: 91}
+      - - {x: -52, y: 89}
+        - {x: -49, y: 90}
+        - {x: -49, y: 93}
+        - {x: -52, y: 94}
+        - {x: -54, y: 92}
+    - name: fire_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 66}
+        - {x: 55, y: 67}
+        - {x: 48, y: 67}
+        - {x: 43, y: 66}
+        - {x: 44, y: 69}
+        - {x: 50, y: 67}
+        - {x: 57, y: 67}
+        - {x: 73, y: 97}
+        - {x: 59, y: 115}
+        - {x: -37, y: 115}
+        - {x: -74, y: 93}
+        - {x: -74, y: -70}
+        - {x: -54, y: -86}
+        - {x: 56, y: -86}
+        - {x: 70, y: -79}
+        - {x: 80, y: -57}
+        - {x: 80, y: 29}
+      - - {x: -33, y: 87}
+        - {x: -30, y: 88}
+        - {x: -30, y: 91}
+        - {x: -33, y: 92}
+        - {x: -35, y: 90}
+    - name: fire_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: -63}
+        - {x: 35, y: -63}
+        - {x: 20, y: -68}
+        - {x: 5, y: -82}
+        - {x: 4, y: -83}
+        - {x: 4, y: -89}
+        - {x: 14, y: -93}
+        - {x: 24, y: -93}
+        - {x: 40, y: -85}
+        - {x: 50, y: -72}
+        - {x: 50, y: -64}
+      - - {x: 90, y: 44}
+        - {x: 56, y: 74}
+        - {x: 43, y: 81}
+        - {x: 29, y: 81}
+        - {x: 27, y: 80}
+        - {x: 17, y: 74}
+        - {x: -38, y: 75}
+        - {x: -93, y: 9}
+        - {x: -99, y: -3}
+        - {x: -99, y: -37}
+        - {x: -86, y: -66}
+        - {x: -45, y: -71}
+        - {x: -35, y: -68}
+        - {x: -23, y: -57}
+        - {x: -21, y: -52}
+        - {x: -18, y: -49}
+        - {x: -12, y: -51}
+        - {x: -10, y: -51}
+        - {x: -12, y: -52}
+        - {x: -15, y: -50}
+        - {x: -18, y: -50}
+        - {x: -21, y: -53}
+        - {x: -22, y: -55}
+        - {x: -24, y: -72}
+        - {x: -7, y: -83}
+        - {x: 41, y: -83}
+        - {x: 59, y: -75}
+        - {x: 94, y: -20}
+        - {x: 94, y: 37}
+      - - {x: -20, y: -73}
+        - {x: -16, y: -77}
+        - {x: -13, y: -76}
+        - {x: -13, y: -74}
+        - {x: -17, y: -70}
+        - {x: -19, y: -70}
+      - - {x: 15, y: -64}
+        - {x: 15, y: -67}
+        - {x: 17, y: -69}
+        - {x: 21, y: -69}
+        - {x: 23, y: -67}
+        - {x: 22, y: -64}
+        - {x: 17, y: -62}
+      - - {x: 71, y: -37}
+        - {x: 71, y: -40}
+        - {x: 74, y: -45}
+        - {x: 76, y: -45}
+        - {x: 78, y: -44}
+        - {x: 78, y: -39}
+        - {x: 74, y: -35}
+        - {x: 72, y: -35}
+      - - {x: -104, y: -34}
+        - {x: -105, y: -40}
+        - {x: -101, y: -43}
+        - {x: -99, y: -43}
+        - {x: -95, y: -40}
+        - {x: -96, y: -37}
+        - {x: -101, y: -33}
+      - - {x: 65, y: 69}
+        - {x: 65, y: 67}
+        - {x: 68, y: 64}
+        - {x: 71, y: 65}
+        - {x: 71, y: 70}
+        - {x: 69, y: 72}
+        - {x: 68, y: 72}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
